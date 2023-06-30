@@ -1,2 +1,1 @@
-- 🔭 Programandor Back-end
 - 🌱 Estudando Python
